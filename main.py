@@ -29,7 +29,7 @@ def start_web_server():
 API_BASE = "https://anishexploits.site/api/api.php?key=exploits&num="
 
 # ⚠️ PASTE YOUR TOKEN HERE
-BOT_TOKEN = "PASTE_YOUR_NEW_TOKEN_HERE"
+BOT_TOKEN = "8372266918:AAFOsz7LZc9d20dNeZCSwza5N_nDCHE2iA8"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; Termux) Gecko/117.0 Firefox/117.0",
